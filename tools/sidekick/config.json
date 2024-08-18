@@ -1,0 +1,11 @@
+{
+    "project": "DA Block Collection",
+    "plugins": [
+      {
+        "id": "plugin-demo",
+        "title": "Plugin demo",
+        "environments": ["da-edit"],
+        "url": "http://localhost:3000/tools/demo/demo.html"
+      }
+    ]
+}
