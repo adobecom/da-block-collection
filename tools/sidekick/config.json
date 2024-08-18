@@ -5,7 +5,7 @@
         "id": "plugin-demo",
         "title": "Plugin demo",
         "environments": ["da-edit"],
-        "url": "http://localhost:3000/tools/demo/demo.html"
+        "url": "https://main--da-block-collection--aemsites.hlx.page/tools/demo/demo.html"
       }
     ]
 }
